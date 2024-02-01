@@ -22,13 +22,12 @@ Conditions:
     -- if yes then get the value
 2. exception: IV, IX , XL ...
     -- if not then check next character for this exception
-    -- put in HashMap as one of the key
 3. IIII cannot be 4 just like XXXX cannot be 40
     -- same character cannot repeat 4 times
 4. cannot IVI as 5 is V
     -- once have the exception, the first character in the first exception cannot appear anymore
         -- e.g: IV I is wrong as it should be V
-5. if sum (char[i] + char[i+1]) is inside map, then cannot OR only I X C M all the int with '1' can repeat 3 times, the rest cannot
+5. 'VV' cannot: if sum (char[i] + char[i+1]) is inside map, then cannot
 
  */
 import java.util.ArrayList;
