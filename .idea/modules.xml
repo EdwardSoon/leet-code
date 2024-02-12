@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" filepath="$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" filepath="$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
