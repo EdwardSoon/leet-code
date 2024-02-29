@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" filepath="$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" filepath="$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" />
