@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" filepath="$PROJECT_DIR$/RemoveDupSortedArr/RemoveDupSortedArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" filepath="$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" filepath="$PROJECT_DIR$/ValidAnagram/ValidAnagram.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" filepath="$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-and-hashing/arrays-and-hashing.iml" filepath="$PROJECT_DIR$/arrays-and-hashing/arrays-and-hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-pointers/two-pointers.iml" filepath="$PROJECT_DIR$/two-pointers/two-pointers.iml" />
     </modules>
   </component>
 </project>
