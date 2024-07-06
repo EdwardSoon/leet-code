@@ -17,7 +17,7 @@ Pseudocode:
 
 
 public class IndexFirstOccurrence {
-    // method 1: Sliding Window Algorithm
+    // method 1: Two pointers
     public int strStr(String haystack, String needle) {
         int needleLen = needle.length();
         int strLen = haystack.length();
