@@ -50,7 +50,7 @@ public class PalindromeNumber {
         }
         int sum = 0;
         /*
-        x > sum so that as long as half of the digits are extracted, then is enough already
+        `x > sum` so that as long as half of the digits are extracted, then is enough already
             even: half of the digits will be extracted = 10
             odd: half of the digits + 1 will be extracted = 10
          */
@@ -60,7 +60,7 @@ public class PalindromeNumber {
             // reduce the x by one digit extracted
             x /= 10;
         }
-        // even number of digits: x == sum ; odd number of digits: x == sum / 10
+        // even number of digits: `x == sum` ; odd number of digits: `x == sum / 10`
         return x == sum || x == sum / 10;
     }
 
