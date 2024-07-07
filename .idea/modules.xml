@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/others/others.iml" filepath="$PROJECT_DIR$/others/others.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliding-window/sliding-window.iml" filepath="$PROJECT_DIR$/sliding-window/sliding-window.iml" />
       <module fileurl="file://$PROJECT_DIR$/two-pointers/two-pointers.iml" filepath="$PROJECT_DIR$/two-pointers/two-pointers.iml" />
     </modules>
   </component>
