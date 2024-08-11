@@ -67,7 +67,7 @@ public class GroupAnagrams {
 
     public static void main(String[] args) {
         String[] x = {"eat","tea","tan","ate","nat","bat"};
-        System.out.print(groupAnagrams(x));
+        System.out.print(groupAnagrams(x) + "hi");
 
     }
 }
